@@ -25,3 +25,4 @@ else
   message += "#{katz_deli.shift()}"
   puts message
 end
+end
