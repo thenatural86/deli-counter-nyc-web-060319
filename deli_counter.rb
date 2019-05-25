@@ -24,5 +24,7 @@ else
   message = "Currently serving"
   message += "#{katz_deli.shift()}"
   puts message
+  end
 end
-end
+
+
