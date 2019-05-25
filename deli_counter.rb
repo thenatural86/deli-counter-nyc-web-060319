@@ -15,6 +15,6 @@ end
 def take_a_number(katz_deli, name)
   count = 0 
   katz_deli.push(name)
-  count += 1 
+  count += 2 
   puts "Welcome, #{name}. You are number #{count} in line." 
 end
